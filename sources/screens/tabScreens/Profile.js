@@ -4,7 +4,7 @@ import {
     View,
 } from 'react-native'
 
-class Profile extends React.Component {
+export default class Profile extends React.Component {
     render() {
         return (
             <View

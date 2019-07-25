@@ -1,4 +1,4 @@
-# Template React Native #
+# React Native Template - Libraries #
 #### 👉👉 Satu perintah cmd / terminal untuk preview berbagai library react-native yang umum digunakan 👈👈 ####
 
 Template kumpulan implementasi library - library react-native yang dapat digunakan untuk diamati, tiru dan modifikasi
