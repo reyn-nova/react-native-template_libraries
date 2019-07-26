@@ -39,7 +39,6 @@
 		ED38BFE822E318AE006AB79E /* AIRGoogleMapWMSTile.m in Sources */ = {isa = PBXBuildFile; fileRef = ED38BFCC22E318AE006AB79E /* AIRGoogleMapWMSTile.m */; };
 		ED38BFE922E318AE006AB79E /* AIRGoogleMapWMSTileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = ED38BFCE22E318AE006AB79E /* AIRGoogleMapWMSTileManager.m */; };
 		ED38BFEA22E318AE006AB79E /* RCTConvert+GMSMapViewType.m in Sources */ = {isa = PBXBuildFile; fileRef = ED38BFD022E318AE006AB79E /* RCTConvert+GMSMapViewType.m */; };
-		ED5AFE1B22E1BBAA00718AF8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED5AFE1A22E1BBAA00718AF8 /* GoogleService-Info.plist */; };
 		F8E89417829A483CABA54F80 /* libRealmReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AA4CA09AF3E455583420BE0 /* libRealmReact.a */; };
 /* End PBXBuildFile section */
 
@@ -55,8 +54,6 @@
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* TemplateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TemplateTests.m; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Template.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Template/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Template/AppDelegate.m; sourceTree = "<group>"; };
@@ -124,7 +121,6 @@
 		ED38BFCF22E318AE006AB79E /* RCTConvert+GMSMapViewType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+GMSMapViewType.h"; sourceTree = "<group>"; };
 		ED38BFD022E318AE006AB79E /* RCTConvert+GMSMapViewType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+GMSMapViewType.m"; sourceTree = "<group>"; };
 		ED5AFE1922E1BB5000718AF8 /* Template.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Template.entitlements; path = Template/Template.entitlements; sourceTree = "<group>"; };
-		ED5AFE1A22E1BBAA00718AF8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		ED98484422E46304005FBDDD /* libreact-native-camera.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libreact-native-camera.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -143,23 +139,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* TemplateTests */ = {
-			isa = PBXGroup;
-			children = (
-				00E356F21AD99517003FC87E /* TemplateTests.m */,
-				00E356F01AD99517003FC87E /* Supporting Files */,
-			);
-			path = TemplateTests;
-			sourceTree = "<group>";
-		};
-		00E356F01AD99517003FC87E /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				00E356F11AD99517003FC87E /* Info.plist */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		13B07FAE1A68108700A75B9A /* Template */ = {
 			isa = PBXGroup;
 			children = (
@@ -171,7 +150,6 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
-				ED5AFE1A22E1BBAA00718AF8 /* GoogleService-Info.plist */,
 			);
 			name = Template;
 			sourceTree = "<group>";
@@ -212,7 +190,6 @@
 				ED38BF9E22E318AE006AB79E /* AirGoogleMaps */,
 				13B07FAE1A68108700A75B9A /* Template */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* TemplateTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				610143E874C784B8C90AF207 /* Pods */,
@@ -391,7 +368,6 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				ED5AFE1B22E1BBAA00718AF8 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
