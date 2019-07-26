@@ -15,12 +15,20 @@ Buka command prompt / terminal, change directory ke direktori yang diinginkan
 #### Cara 1: Bash Script (Recommended) ####
 - Copy paste ```curl -s https://squamulose-saturday.000webhostapp.com/repos/react-native-template/libraries/installationScript.txt | bash -s``` dan jalankan di command prompt / terminal, tunggu sampai selesai
 
-#### Cara 2: Manual ####
+#### Cara 2: ####
 - Clone project dengan perintah ```git clone https://github.com/reynova/react-native-template_libraries.git```
 - Install node_modules yang dibutuhkan dengan cara change directory ke direktori project lalu jalankan ```npm i```
 - Setelah selesai proses installasi node_modules ```npm start```
 
-Untuk run di android, connect kan device, buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
+## Run ##
+
+- Connect kan device dengan kabel data
+
+#### Android ####
+Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
+
+#### iOS ####
+Run lewat XCode
 
 ## Fitur ##
 

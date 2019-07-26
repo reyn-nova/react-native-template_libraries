@@ -11,7 +11,6 @@ export async function OpenRealm(name) {
 
 const RealmDataName = {
     Number: "number",
-    NotificationID: "notificationID",
 }
 
 const RealmDataModel = {
@@ -24,13 +23,4 @@ const RealmDataModel = {
             },
         }],
     },
-    NotificationID: {
-        path: "notificationID.realm",
-        schema: [{
-            name: RealmDataName.NotificationID,
-            properties: {
-                value: "int",
-            },
-        }],
-    }
 }
