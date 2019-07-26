@@ -4,9 +4,9 @@
 Template kumpulan implementasi library - library react-native yang dapat digunakan untuk diamati, tiru dan modifikasi
 Template ini mengadopsi react-native versi 0.60.x
 
-<img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/1.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/2.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/3.png">
+<img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/1.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/2.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/3.png">
 
-<img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/4.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/5.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template_libraries/blob/master/screenshots/6.png">
+<img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/4.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/5.png"> <img width="240" height="400" src="https://github.com/reynova/react-native-template/blob/master/files/react-native-template_libraries/screenshots/6.png">
 
 ## Instalasi ##
 
