@@ -25,10 +25,11 @@ Buka command prompt / terminal, change directory ke direktori yang diinginkan
 - Connect kan device dengan kabel data
 
 #### Android ####
-Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
+- Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
 
 #### iOS ####
-Run lewat XCode
+- Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```pod install``, tunggu sampai selesai
+- Run lewat XCode
 
 ## Fitur ##
 
