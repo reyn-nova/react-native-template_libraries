@@ -28,7 +28,7 @@ Buka command prompt / terminal, change directory ke direktori yang diinginkan
 - Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
 
 #### iOS ####
-- Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```pod install``, tunggu sampai selesai
+- Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```pod install```, tunggu sampai selesai
 - Run lewat XCode
 
 ## Fitur ##
