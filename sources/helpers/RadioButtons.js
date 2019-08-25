@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 import {
     View,
-} from 'react-native';
+} from 'react-native'
 
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 
-import CheckItem from './CheckItem';
+import CheckItem from './CheckItem'
 
 export default class RadioButtons extends React.Component {
     static propTypes = {

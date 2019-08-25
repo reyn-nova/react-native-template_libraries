@@ -1,15 +1,15 @@
-import React from 'react';
+import React from 'react'
 import {
     Image,
-} from 'react-native';
+} from 'react-native'
 
 import {
     createAppContainer,
     createMaterialTopTabNavigator,
 } from 'react-navigation'
 
-import BottomTab_Home from './tabScreens/Home';
-import BottomTab_Profile from './tabScreens/Profile';
+import BottomTab_Home from './tabScreens/Home'
+import BottomTab_Profile from './tabScreens/Profile'
 
 const BottomTab = createAppContainer(createMaterialTopTabNavigator(
     {

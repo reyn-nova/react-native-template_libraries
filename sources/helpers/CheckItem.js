@@ -1,13 +1,13 @@
-import React from 'react';
+import React from 'react'
 import {
     Text,
     TouchableOpacity,
     View,
-} from 'react-native';
+} from 'react-native'
 
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 
-import Toggle from './Toggle';
+import Toggle from './Toggle'
 
 export default class CheckItem extends React.Component {
     static propTypes = {

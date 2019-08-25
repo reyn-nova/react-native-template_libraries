@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 import {
     Text,
     View,
-} from 'react-native';
+} from 'react-native'
 
-import CurrencyTextField from '../helpers/CurrencyTextField';
+import CurrencyTextField from '../helpers/CurrencyTextField'
 
 import KeyboardAvoidingScrollView from '../helpers/KeyboardAvoidingScrollView'
 

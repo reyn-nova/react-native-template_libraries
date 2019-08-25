@@ -1,42 +1,42 @@
-import React from 'react';
+import React from 'react'
 import {
     Platform,
     StatusBar,
-} from 'react-native';
+} from 'react-native'
 
 import {
     createAppContainer,
     createStackNavigator
-} from 'react-navigation';
+} from 'react-navigation'
 
 import {
     combineReducers,
     createStore,
-} from 'redux';
+} from 'redux'
 
 import {
     Provider,
-} from 'react-redux';
+} from 'react-redux'
 
-import StackViewStyleInterpolator from 'react-navigation-stack/src/views/StackView/StackViewStyleInterpolator';
+import StackViewStyleInterpolator from 'react-navigation-stack/src/views/StackView/StackViewStyleInterpolator'
 
-import Menu from './Menu';
-import MaterialInputFormModule from './MaterialInputFormModule';
-import CurrencyInputFormAndFormatterModule from './CurrencyInputFormAndFormatterModule';
-import MaterialDropdownFormModule from './MaterialDropdownFormModule';
-import ModuleExportsModule from './ModuleExportsModule';
-import CalendarModule from './CalendarModule';
-import TopTabNavigatorModule from './TopTabNavigatorModule';
-import BottomTabNavigatorModule from './BottomTabNavigatorModule';
-import ImagePickerAndViewerModule from './ImagePickerAndViewerModule';
-import QRCodeScannerModule from './QRCodeScannerModule';
-import ReactNativeMapsModule from './ReactNativeMapsModule';
-import RealmLocalStorageModule from './RealmLocalStorageModule';
-import CheckItemModule from './CheckItemModule';
-import ToggleModule from './ToggleModule';
-import RadioButtonModule from './RadioButtonModule';
-import ReduxModule from './ReduxModule';
-import ChangeBackgroundColor from './ChangeBackgroundColor';
+import Menu from './Menu'
+import MaterialInputFormModule from './MaterialInputFormModule'
+import CurrencyInputFormAndFormatterModule from './CurrencyInputFormAndFormatterModule'
+import MaterialDropdownFormModule from './MaterialDropdownFormModule'
+import ModuleExportsModule from './ModuleExportsModule'
+import CalendarModule from './CalendarModule'
+import TopTabNavigatorModule from './TopTabNavigatorModule'
+import BottomTabNavigatorModule from './BottomTabNavigatorModule'
+import ImagePickerAndViewerModule from './ImagePickerAndViewerModule'
+import QRCodeScannerModule from './QRCodeScannerModule'
+import ReactNativeMapsModule from './ReactNativeMapsModule'
+import RealmLocalStorageModule from './RealmLocalStorageModule'
+import CheckItemModule from './CheckItemModule'
+import ToggleModule from './ToggleModule'
+import RadioButtonModule from './RadioButtonModule'
+import ReduxModule from './ReduxModule'
+import ChangeBackgroundColor from './ChangeBackgroundColor'
 
 const AppContainer = createAppContainer(createStackNavigator(
     {

@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 import {
     KeyboardAvoidingView,
     Platform,
     ScrollView,
-} from 'react-native';
+} from 'react-native'
 
 export default class KeyboardAvoidingScrollView extends React.Component {
     render() {

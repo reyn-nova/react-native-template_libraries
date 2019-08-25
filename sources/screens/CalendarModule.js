@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 import {
     ScrollView,
-} from 'react-native';
+} from 'react-native'
 
 import {
     Calendar,
-} from 'react-native-calendars';
+} from 'react-native-calendars'
 
 import {
     GetDaysState,

@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 import {
   Alert,
   View,
-} from 'react-native';
+} from 'react-native'
 
-import QRCodeScanner from 'react-native-qrcode-scanner';
+import QRCodeScanner from 'react-native-qrcode-scanner'
 
 export default class QRCodeScannerModule extends React.Component {
   static navigationOptions = {

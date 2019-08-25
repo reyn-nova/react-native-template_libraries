@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 
 import MapView,
 {
     Marker,
     PROVIDER_GOOGLE,
-} from 'react-native-maps';
+} from 'react-native-maps'
 
 export default class ReactNativeMapsModule extends React.Component {
     static navigationOptions = {

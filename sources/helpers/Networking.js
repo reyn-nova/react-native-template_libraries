@@ -1,7 +1,7 @@
 import {
     baseUrls,
     usedBaseUrlIndex,
-} from "../referencesData/API";
+} from "../referencesData/API"
 
 export function Fetching({url, bodyJson}) {
     return (

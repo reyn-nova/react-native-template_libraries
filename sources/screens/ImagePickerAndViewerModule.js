@@ -1,17 +1,17 @@
-import React from 'react';
+import React from 'react'
 import {
     Dimensions,
     Image,
     Text,
     TouchableOpacity,
     View,
-} from 'react-native';
+} from 'react-native'
 
-import ImageView from 'react-native-image-view';
+import ImageView from 'react-native-image-view'
 
 import {
     InsertPicture,
-} from '../helpers/ImagePicker';
+} from '../helpers/ImagePicker'
 
 import {
     SetImages,

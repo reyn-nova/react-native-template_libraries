@@ -1,13 +1,9 @@
-import React from 'React';
+import React from 'React'
 import {
     View,
 } from 'react-native'
 
-import {
-    connect,
-} from 'react-redux'
-
-import RadioButtons from '../helpers/RadioButtons';
+import RadioButtons from '../helpers/RadioButtons'
 
 const toggleOnImage = require("../icons/radiobuttonon.png")
 const toggleOffImage = require("../icons/radiobuttonoff.png")

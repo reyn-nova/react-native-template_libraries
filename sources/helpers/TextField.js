@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 import {
     Animated,
     Platform,
     TextInput,
     View
-} from 'react-native';
+} from 'react-native'
 
 export default class TextField extends React.Component {
     state = {

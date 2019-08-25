@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 import {
     Image,
     TouchableOpacity,
-} from 'react-native';
+} from 'react-native'
 
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 
 export default class Toggle extends React.Component {
     static propTypes = {

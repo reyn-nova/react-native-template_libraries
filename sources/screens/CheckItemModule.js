@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 import {
     ScrollView,
     View,
 } from 'react-native'
 
-import CheckItem from '../helpers/CheckItem';
+import CheckItem from '../helpers/CheckItem'
 
 const toggleOnImage = require("../icons/checkbox.png")
 const toggleOffImage = require("../icons/uncheckbox.png")

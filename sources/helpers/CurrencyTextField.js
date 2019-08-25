@@ -1,13 +1,13 @@
-import React from 'react';
+import React from 'react'
 import {
     Animated,
     Platform,
     View
-} from 'react-native';
+} from 'react-native'
 
 import {
     TextInputMask,
-} from 'react-native-masked-text';
+} from 'react-native-masked-text'
 
 export default class CurrencyTextField extends React.Component {
     state = {

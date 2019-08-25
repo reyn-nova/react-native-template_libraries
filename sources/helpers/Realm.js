@@ -1,4 +1,4 @@
-import Realm from 'realm';
+import Realm from 'realm'
 
 export async function OpenRealm(name) {
     let realm = await Realm.open(RealmDataModel[name])

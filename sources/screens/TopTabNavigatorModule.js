@@ -1,12 +1,12 @@
-import React from 'react';
+import React from 'react'
 
 import {
     createAppContainer,
     createMaterialTopTabNavigator,
 } from 'react-navigation'
 
-import TopTab_Home from './tabScreens/Home';
-import TopTab_Profile from './tabScreens/Profile';
+import TopTab_Home from './tabScreens/Home'
+import TopTab_Profile from './tabScreens/Profile'
 
 const TopTab = createAppContainer(createMaterialTopTabNavigator(
     {

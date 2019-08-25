@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 import {
     View,
 } from 'react-native'
 
-import Toggle from '../helpers/Toggle';
+import Toggle from '../helpers/Toggle'
 
 const toggleOnImage = require("../icons/toggleon.png")
 const toggleOffImage = require("../icons/toggleoff.png")
