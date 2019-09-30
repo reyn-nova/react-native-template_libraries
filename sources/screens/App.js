@@ -5,9 +5,12 @@ import {
 } from 'react-native'
 
 import {
-    createAppContainer,
-    createStackNavigator
+    createAppContainer
 } from 'react-navigation'
+
+import {
+    createStackNavigator
+} from 'react-navigation-stack'
 
 import {
     combineReducers,

@@ -1,9 +1,12 @@
 import React from 'react'
 
 import {
-    createAppContainer,
-    createMaterialTopTabNavigator,
+    createAppContainer
 } from 'react-navigation'
+
+import {
+    createMaterialTopTabNavigator
+} from 'react-navigation-tabs'
 
 import TopTab_Home from './tabScreens/Home'
 import TopTab_Profile from './tabScreens/Profile'

@@ -4,9 +4,12 @@ import {
 } from 'react-native'
 
 import {
-    createAppContainer,
-    createMaterialTopTabNavigator,
+    createAppContainer
 } from 'react-navigation'
+
+import {
+    createMaterialTopTabNavigator
+} from 'react-navigation-tabs'
 
 import BottomTab_Home from './tabScreens/Home'
 import BottomTab_Profile from './tabScreens/Profile'
