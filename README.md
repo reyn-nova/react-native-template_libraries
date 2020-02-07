@@ -3,10 +3,6 @@
 Template kumpulan implementasi library - library react-native yang dapat digunakan untuk diamati, tiru dan modifikasi
 Template ini mengadopsi react-native versi 0.60.x
 
-<img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/1.png"> <img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/2.png"> <img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/3.png">
-
-<img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/4.png"> <img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/5.png"> <img width="240" height="400" src="https://github.com/react-native-crocodic/react-native-template_libraries/blob/master/files/react-native-template_libraries/screenshots/6.png">
-
 ## Fitur ##
 
 1.  Toggle, check list dan radio button
